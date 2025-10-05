@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=你好%20Tớ%20là%20VHMing!&reversal=false&textBg=false&fontAlignY=49&animation=fadeIn&section=header&fontSize=30&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=你好%20Tớ%20là%20Hnguyen!&reversal=false&textBg=false&fontAlignY=49&animation=fadeIn&section=header&fontSize=30&fontColor=FFFFFF"/>
 </div>
 
 <div align="center">
