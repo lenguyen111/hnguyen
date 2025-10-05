@@ -159,7 +159,7 @@ Lua              1 hr 00 mins    █░░░░░░░░░░░░░░�
 ⭐️ **If you like my work, please consider giving a star to my repositories!**
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*  
-*"In coding, as in anime, the journey is just as important as the destination!" – VHMing*
+*"In coding, as in anime, the journey is just as important as the destination!" – Hnguyen*
 
 </div>
 
