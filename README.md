@@ -114,9 +114,9 @@ const Hnguyen = {
 
 <div align="center">
   
-![Hnguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhw1nq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00D4AA&title_color=00D4AA&text_color=FFFFFF)
+![Hnguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenguyen111&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00D4AA&title_color=00D4AA&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhw1nq&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenguyen111&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
 
 </div>
 
